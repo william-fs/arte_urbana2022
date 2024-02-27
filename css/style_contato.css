@@ -1,0 +1,27 @@
+	* {
+        margin: 0;
+        padding: 0;
+      }
+      
+	#banner-contato {
+        height: 200px;
+        background-image: url("../img/g_6.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 30px;
+        background-attachment: fixed;
+      }
+
+  #principal h1 {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+
+  .space {
+    margin-top: 30px;
+  }
+
+  .btn-enviar {
+    width: 80px;
+  }
